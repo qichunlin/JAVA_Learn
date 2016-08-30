@@ -6,7 +6,7 @@ class variable {
         char k = 's';
         boolean w = true;
 
-        final int z = 3; //final定义常量
+        final int z = 3; //final 定义常量
         String h="goood";
 
 

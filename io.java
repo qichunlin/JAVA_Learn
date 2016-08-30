@@ -5,6 +5,7 @@ class io {
     public static void main(String args[]) {
         Scanner in = new Scanner(System.in);
         season hello = season.spring;
+
         System.out.println("Hello,what is your name?");
         String name = in.nextLine();
 
