@@ -7,7 +7,7 @@ class variable {
         boolean w = true;
 
         final int z = 3; //final 定义常量
-        String h="gooadd";
+        String h="goodsdd";
 
 
         System.out.println(h);
