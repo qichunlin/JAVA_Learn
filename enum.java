@@ -3,9 +3,7 @@ import java.util.*;
 //season is a class
 enum season {
     //spring,summer,fall,winter are child class of season
-    spring("Spring") {
-    }
-    ,summer("Summer"),fall("Fall"),winter("Winter");
+    spring("Spring"),summer("Summer"),fall("Fall"),winter("Winter");
     private String name;
     private season(String _name) {
         this.name = _name;
