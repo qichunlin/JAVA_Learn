@@ -32,5 +32,12 @@ public class Test_Array {
         d = a;
         a[1] = 1000;
         System.out.println(Arrays.toString(d));
+        test();
+    }
+    public static boolean test(){
+        int[][] a = new int[1][2];
+
+        System.out.print(a.length);
+        return true?true:false;
     }
 }

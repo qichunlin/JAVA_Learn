@@ -30,5 +30,6 @@ public class Test_IO {
         System.out.println(b);
         System.out.println(c);
         System.out.printf("%s %s,%d,%b",a1,a2,b,c);
+
     }
 }
